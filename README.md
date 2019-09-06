@@ -5,4 +5,4 @@ AndroidStudio preferences files
 
 ## Code Style
 
-##### Import **AndroidStudio.codestyle.json** file from Android Studio > Preferences > Editor > Code Style > Kotlin > settings icon(Import Scheme)
+Import **AndroidStudio.codestyle.json** file from Android Studio > Preferences > Editor > Code Style > Kotlin > settings icon(Import Scheme)
